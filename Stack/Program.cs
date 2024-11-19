@@ -117,9 +117,13 @@ namespace stack_datatype
                     int value = 0;
                     try {
                         value = Convert.ToInt32(input); 
-                    } catch (System.OverflowException e) {
+                    } catch {
                         Console.WriteLine("Number cannot be represented in 32 bits");
                         continue;
+                    }
+                    if (value == invalidValue) {
+                      Console.WriteLine($"{value} is a reserved number");
+                      continue;
                     }
 
                     try { 

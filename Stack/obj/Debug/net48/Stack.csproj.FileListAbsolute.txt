@@ -7,3 +7,4 @@
 /home/mint/Projects/random/Stack/bin/Debug/net48/Stack.pdb
 /home/mint/Projects/random/Stack/obj/Debug/net48/Stack.exe
 /home/mint/Projects/random/Stack/obj/Debug/net48/Stack.pdb
+/home/mint/Projects/random/Stack/obj/Debug/net48/Stack.sourcelink.json
