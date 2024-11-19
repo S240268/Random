@@ -1,0 +1,9 @@
+/home/mint/Projects/random/Stack/obj/Debug/net48/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/mint/Projects/random/Stack/obj/Debug/net48/Stack.AssemblyInfoInputs.cache
+/home/mint/Projects/random/Stack/obj/Debug/net48/Stack.AssemblyInfo.cs
+/home/mint/Projects/random/Stack/obj/Debug/net48/Stack.csproj.CoreCompileInputs.cache
+/home/mint/Projects/random/Stack/bin/Debug/net48/Stack.exe.config
+/home/mint/Projects/random/Stack/bin/Debug/net48/Stack.exe
+/home/mint/Projects/random/Stack/bin/Debug/net48/Stack.pdb
+/home/mint/Projects/random/Stack/obj/Debug/net48/Stack.exe
+/home/mint/Projects/random/Stack/obj/Debug/net48/Stack.pdb

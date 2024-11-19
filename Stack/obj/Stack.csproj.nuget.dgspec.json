@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mint/Projects/random/Stack/Stack.csproj": {}
+  },
+  "projects": {
+    "/home/mint/Projects/random/Stack/Stack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mint/Projects/random/Stack/Stack.csproj",
+        "projectName": "Stack",
+        "projectPath": "/home/mint/Projects/random/Stack/Stack.csproj",
+        "packagesPath": "/home/mint/.nuget/packages/",
+        "outputPath": "/home/mint/Projects/random/Stack/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mint/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
